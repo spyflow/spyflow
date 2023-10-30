@@ -4,11 +4,7 @@ Welcome to my GitHub profile! I'm a passionate informatic with a keen interest i
 
 ## 🔭 What I'm currently working on
 
-<p align="left">
-  <a href="https://github.com/spyflow/musicbot">
-    <img src="https://api.spyflow.net/musicbot.png" alt="WO" width="470"/>
-  </a>
-</p>
+none
 
 ## 🌱 What I'm currently learning
 
