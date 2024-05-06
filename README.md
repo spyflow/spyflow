@@ -23,9 +23,6 @@ You can connect with me via:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spyflow&show_icons=true&theme=gruvbox)
 
-## 🎮 Discord
-[![Discord Presence](https://lanyard.cnrad.dev/api/533093302031876096)](https://discord.com/users/533093302031876096)
-
 ---
 
 Thank you for visiting my profile! If you find any of my projects interesting or useful, I would appreciate a ⭐️ on the repositories. Let's stay connected and create something amazing together! 😄
