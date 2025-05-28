@@ -17,7 +17,7 @@ With 2 years of experience in informatics, I have gained expertise in C.
 ## 📫 How to reach me
 
 You can connect with me via:
-- Email: contacto@spyflow.link
+- Email: javierferrada@spyflow.tech
 
 ## 📊 GitHub Stats
 
