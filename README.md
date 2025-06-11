@@ -1,22 +1,17 @@
-# Hi there, I'm SpyFLow! 👋
+# SpyFLow
 
-Welcome to my GitHub profile! I'm a passionate informatic with a keen interest in AI. I love to explore new technologies and collaborate on exciting projects. Feel free to browse through my repositories and explore the code I've written.
-
-## 🔭 What I'm currently working on
-
-none
+Passionate informatician with a keen interest in AI. Exploring new technologies and open to collaboration.
 
 ## 🌱 What I'm currently learning
 
-I'm continuously expanding my knowledge and improving my skills in Python.
+Currently deepening my Python knowledge for AI applications.
 
 ## 💼 My professional background
 
-With 2 years of experience in informatics, I have gained expertise in C.
+Experienced in C with a 2-year background in informatics.
 
 ## 📫 How to reach me
 
-You can connect with me via:
 - Email: javierferrada@spyflow.tech
 
 ## 📊 GitHub Stats
@@ -25,4 +20,4 @@ You can connect with me via:
 
 ---
 
-Thank you for visiting my profile! If you find any of my projects interesting or useful, I would appreciate a ⭐️ on the repositories. Let's stay connected and create something amazing together! 😄
+Thank you for visiting my profile. Feel free to explore my projects. Let's connect!
