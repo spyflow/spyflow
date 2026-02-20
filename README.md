@@ -12,7 +12,7 @@ Experienced in C with a 2-year background in informatics.
 
 ## 📫 How to reach me
 
-- Email: javierferrada@spyflow.tech
+- Email: contact@spyflow.dev
 
 ## 📊 GitHub Stats
 
